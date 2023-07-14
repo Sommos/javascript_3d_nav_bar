@@ -1,6 +1,8 @@
 # Javascript 3D Nav Bar
 
-This program builds a responsive, animated 3d navigation bar in JavaScript.
+This program builds a responsive, animated animated 3d navigation bar website in HTML, CSS & JavaScript.
+
+This has been built into a web application accessible here: https://sommos.github.io/javascript_3d_nav_bar/
 
 # Contribution 
 
