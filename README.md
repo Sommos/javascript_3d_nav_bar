@@ -1,7 +1,8 @@
 # Javascript 3D Nav Bar
 
 <p align="center">
-    <img src="image0.png" width="800"/>
+    <img src="image0.png" width="400"/>
+    <img src="image1.png" width="400"/>
 </p>
 
 This program builds a responsive, animated animated 3d navigation bar website in HTML, CSS & JavaScript.
