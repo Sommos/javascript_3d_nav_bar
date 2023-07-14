@@ -102,7 +102,7 @@ button {
 header {
     min-height: 100vh;
     width: 100%;
-    background: url("/assets/images/bg_image.jpg") no-repeat top center / cover;
+    background: url("/assets/images/bg_image0.jpg") no-repeat top center / cover;
     position: relative;
 }
 
@@ -245,17 +245,22 @@ ul {
     transform-style: preserve-3d;
     transform-origin: left;
     transition: 0.5s;
-    background-color: white;
 }
   
 .shadow.one {
     z-index: -1;
     opacity: 0.15;
+    background-image: url("/assets/images/bg_image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
   
 .shadow.two {
     z-index: -2;
     opacity: 0.1;
+    background-image: url("/assets/images/bg_image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
   
 .container.active .shadow.one {
